@@ -17,12 +17,13 @@ Built using **Python**, **Pandas**, **Scikit-learn**, and **Linear Regression**.
    
 2. **Create a Virtual Environment if needed**
 
-  python3 -m venv venv
-  source venv/bin/activate
+   python3 -m venv venv
+   source venv/bin/activate
 
 3.Run the notebook or script.
 
 📊 Model Performance
+
 Mean Squared Error: 1.80e+12
 
 Mean Absolute Error: ~962,573
